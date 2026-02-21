@@ -17,7 +17,6 @@ Custom WordPress website developed for Nature Tech Energies (Naturetek), a dedic
 - About section highlighting transformation of Jaipur into a solar-powered city, cutting-edge installations, smart inverters, global expertise in renewable resources, mission to deliver stability/comfort, vision of collaboration to save the earth
 - Stats counters: 90% Customer Satisfaction Rate, 80% Reduction in Electricity Bills (highlighted benefits)
 - Testimonials or client trust elements (implied through satisfaction metrics)
-- Contact section with phone (+91 98294 71380, +91 8949949188), address (SC-64, Govind Nagar, Ram Chandra Marg, Maniyawas, Mansarovar, Jaipur, Rajasthan 302020), email/form, and inquiry options
 - Responsive design optimized for energy/solar visuals (mobile-first)
 - SEO-friendly for local Jaipur solar searches
 
